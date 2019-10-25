@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Adafruit_Metro_M4_Express)(type Legacy)(uri "${KICAD_USER_DIR}/Libraries/Adafruit Metro M4 Express.lib")(options "")(descr ""))
+  (lib (name Adafruit_Circuit_Playground_Express)(type Legacy)(uri "${KICAD_USER_DIR}/Libraries/Adafruit Circuit Playground Express.lib")(options "")(descr ""))
+  (lib (name Adafruit_Hallowing_M0_Express)(type Legacy)(uri "${KICAD_USER_DIR}/Libraries/Adafruit Hallowing M0 Express.lib")(options "")(descr ""))
+)
